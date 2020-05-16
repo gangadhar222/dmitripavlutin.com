@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import 'normalize.css/normalize.css';
+import 'styles/index.scss';
 import styles from './index.module.scss';
 
 import Footer from 'components/Layout/Footer';

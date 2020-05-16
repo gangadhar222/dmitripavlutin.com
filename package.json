@@ -62,9 +62,9 @@
     "react-helmet": "5.2.1",
     "react-media": "1.10.0",
     "ts-jest": "25.2.1",
-    "typescript": "3.8.3"
+    "typescript": "3.8.3",
+    "tailwindcss": "1.4.6"
   },
-  "devDependencies": {},
   "homepage": "https://github.com/panzerdp/dmitripavlutin.com/",
   "keywords": [
     "javascript",
